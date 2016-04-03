@@ -1,0 +1,19 @@
+{
+  "name": "practice-promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promises.js",
+  "scripts": {
+    "test": "node run promises.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdctenga/practice-promises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdctenga/practice-promises/issues"
+  },
+  "homepage": "https://github.com/mdctenga/practice-promises"
+}
